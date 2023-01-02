@@ -20,5 +20,5 @@ first level heading )
 *italic*
 **bold**
 
-It is better to always use save the file in .md extension when wornikg 
+It is better to always save the README  file in .md extension when wornikg 
 with github repos (consider it best practice).
