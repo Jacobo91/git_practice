@@ -1,4 +1,4 @@
-#This is a practice exercise using git, github and markdown
+# This is a practice exercise using git, github and markdown
 
 First steps for using git are:
 
@@ -17,8 +17,8 @@ Some markdown syntaxes are:
 hastag wrap at both ends of the sentece or word creates a h1 heading or 
 first level heading )
 
-*bold*
-**italic**
+*italic*
+**bold**
 
 It is better to always use save the file in .md extension when wornikg 
 with github repos (consider it best practice).
